@@ -1,0 +1,3 @@
+
+SQLALCHEMY_DATABASE_URI = "mysql+cymysql://root:111111@localhost/ginger"
+SECRET_KEY = "\xd5W\xb0\x9e\xbf\xc4\x11l\xc2\xa3h\x12E\xae\x88\x99o\xcc\xfa\xa5\xf4\x97*\x1e"
